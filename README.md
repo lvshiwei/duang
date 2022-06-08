@@ -1,2 +1,2 @@
 # duang
-An nice tool for building server
+A nice tool for building server
